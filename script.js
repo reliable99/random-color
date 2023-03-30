@@ -1,6 +1,6 @@
 const button = document.querySelector('button');
 const h2El = document.querySelector('h2');
-const bgEl = document.querySelector('div');
+const bgEl = document.querySelector('section');
 
 
 button.addEventListener('click', () => {
